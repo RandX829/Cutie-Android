@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cutie</string>
+    <string name="logo">Logo</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="new_one">New</string>
+    <string name="add">Add</string>
+    <string name="primary_action">Primary Action</string>
+    <string name="generic_error">Something wrong happened. Please try again.</string>
+    <!-- Account -->
+    <string name="account">Account</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="do_not_have_account">Don\'t have an account?</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_visibility">Password Visibility</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_out">Sign out</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="error_empty_email_password">Email and password cannot be empty.</string>
+    <string name="error_invalid_email">Please enter a valid email.</string>
+    <string name="error_empty_name">Name cannot be empty.</string>
+    <string name="error_unsafe_password">Your password should have at least 8 digits and include one digit, one lower case letter and one upper case letter.</string>
+    <string name="error_passwords_not_match">Passwords do not match.</string>
+    <!-- Tasks -->
+    <string name="todo">ToDo</string>
+    <string name="no_tasks">No Tasks</string>
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+    <string name="error_empty_title">Title cannot be empty.</string>
+    <!-- Ledger -->
+    <string name="ledger">Ledger</string>
+    <string name="no_transactions">No Transactions</string>
+</resources>
