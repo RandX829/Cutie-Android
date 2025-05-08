@@ -1,11 +1,10 @@
+<div align=center>
+    <img src="./screenshot/cutie.png" alt="Logo" width="256" height="256">
+</div>
+
 # Cutie
 
 🇺🇸 [English](README.md) 🇨🇳 [中文](./README.zh.md)
-
-<div align="center">
-    <img src="./screenshot/cutie.png" alt="cutie.png" width="196" height="196">
-</div>
-<br/>
 
 ソフトウェア開発のベストプラクティスをデモするための多目的アプリになります。UI/UX、アーキテクチャ、通知、ナビゲーション、権限管理、並行処理、テスト、CI/CD、データベース、クラウドサービス、AIなどのテーマが含まれます。
 
@@ -23,9 +22,9 @@
 
 ## 📷 スクリーンショット
 
-|ログイン|登録|アカウント|ホーム|タスク一覧|新規タスク|タスクを編集|家計簿|
-|---|---|---|---|---|---|---|---|
-|![Signin](./screenshot/signin.png)|![Signup](./screenshot/signup.png)|![Account](./screenshot/account.png)|![Home](./screenshot/home.png)|![Tasks](./screenshot/tasks.png)|![New Task](./screenshot/task-new.png)|![Edit Task](./screenshot/task-edit.png)|![Ledger](./screenshot/ledger.png)|
+|||||||||
+|-|-|-|-|-|-|-|-|
+|![signin](./screenshot/signin.png)|![signup](./screenshot/signup.png)|![account](./screenshot/account.png)|![home](./screenshot/home.png)|![tasks](./screenshot/tasks.png)|![new](./screenshot/task-new.png)|![edit](./screenshot/task-edit.png)|![ledger](./screenshot/ledger.png)|
 
 ## ⚙️ アーキテクチャ
 
@@ -59,7 +58,7 @@
 - ProGuard
 - Hilt
 - Kotlin Serialization
-- Coroutine
+- Coroutines
 - Flow
 - JUnit
 - GMS

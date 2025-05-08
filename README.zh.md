@@ -1,11 +1,10 @@
+<div align=center>
+    <img src="./screenshot/cutie.png" alt="Logo" width="256" height="256">
+</div>
+
 # Cutie
 
 🇺🇸 [English](README.md) 🇯🇵 [日本語](./README.ja.md)
-
-<div align="center">
-    <img src="./screenshot/cutie.png" alt="cutie.png" width="196" height="196">
-</div>
-<br/>
 
 一款通用App，用来展示软件开发的最佳实践。包括但不限于UI/UX、架构、通知、导航、权限、并发、测试、CI/CD、数据库、云服务和 AI。
 
@@ -23,9 +22,9 @@
 
 ## 📷 Screenshot
 
-|登录|注册|账号|Home|任务一览|新任务|编辑任务|账本|
-|---|---|---|---|---|---|---|---|
-|![Signin](./screenshot/signin.png)|![Signup](./screenshot/signup.png)|![Account](./screenshot/account.png)|![Home](./screenshot/home.png)|![Tasks](./screenshot/tasks.png)|![New Task](./screenshot/task-new.png)|![Edit Task](./screenshot/task-edit.png)|![Ledger](./screenshot/ledger.png)|
+|||||||||
+|-|-|-|-|-|-|-|-|
+|![signin](./screenshot/signin.png)|![signup](./screenshot/signup.png)|![account](./screenshot/account.png)|![home](./screenshot/home.png)|![tasks](./screenshot/tasks.png)|![new](./screenshot/task-new.png)|![edit](./screenshot/task-edit.png)|![ledger](./screenshot/ledger.png)|
 
 ## ⚙️ Architecture
 
@@ -41,7 +40,7 @@
 
 ## 🛠️ Tech Stack
 
-- ChatGPT, DeepSeek, Grok - 生成式AI聊天Bot
+- ChatGPT, DeepSeek, Grok - 生成式AI聊天机器人
 - Git
 - Android Studio
 - ADB
@@ -59,7 +58,7 @@
 - ProGuard
 - Hilt
 - Kotlin Serialization
-- Coroutine
+- Coroutines
 - Flow
 - JUnit
 - GMS
